@@ -1,0 +1,226 @@
+[
+  {
+    "GroupName": "Family",
+    "PictureUrl": "https://res.cloudinary.com/dodijnztn/image/upload/v1659352515/HomeOrganizer/Groupwork_tile_Stock_izo7kj.jpg",
+    "Users": [
+      {
+        "Name": "bob",
+        "UserId": "e3b1803b-c3c9-4e88-9f57-6b3bf5c96a18",
+        "Role": 2,
+        "MainPageChoise": 0
+      },
+      {
+        "Name": "admin",
+        "UserId": "9f92f390-bd55-460d-bc3d-4128c463065e",
+        "Role": 0,
+        "MainPageChoise": 0
+      },
+      {
+        "Name": "moderator",
+        "UserId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "Role": 1,
+        "MainPageChoise": 1
+      }
+    ],
+    "Payloads": [
+      {
+        "Id": 1,
+        "Name": "Home",
+        "GroupId": 1,
+        "Tasks": [
+          {
+            "Title": "Milk",
+            "Description": "Buy Milk1",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 1,
+            "GroupId": 1
+          },
+          {
+            "Title": "Bread",
+            "Description": "Buy Bread1",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 1,
+            "GroupId": 1
+          },
+          {
+            "Title": "Butter",
+            "Description": "Buy Butter1",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 1,
+            "GroupId": 1
+          },
+          {
+            "Title": "Potatos",
+            "Description": "Buy Potatos",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 1,
+            "GroupId": 1
+          }
+        ]
+      }
+    ],
+    "Ad": [
+      {
+        "AuthorName": "admin",
+        "AuthorId": "9f92f390-bd55-460d-bc3d-4128c463065e",
+        "TextBody": "First text",
+        "IsVoting": true,
+        "Voting": {
+          "Variants": [
+            {
+              "TextBody": "Variant_1",
+              "VotingId": 1
+            },
+            {
+              "TextBody": "Variant_2",
+              "VotingId": 1
+            },
+            {
+              "TextBody": "Variant_3",
+              "VotingId": 1
+            }
+          ],
+          "AdId": 1,
+          "IsSecret": false,
+          "Id": 1
+        },
+        "Acquainted": [],
+        "GroupId": 1
+      },
+      {
+        "AuthorName": "moderator",
+        "AuthorId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "TextBody": "Second text, Second text, Second text, Second text, Second text, Second text",
+        "IsVoting": false,
+        "Voting": null,
+        "Acquainted": [],
+        "GroupId": 1
+      },
+      {
+        "AuthorName": "moderator",
+        "AuthorId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "TextBody": "Third text, Third text, Third text, Third text, Third text, Third text,Third text",
+        "IsVoting": false,
+        "Voting": null,
+        "Acquainted": [],
+        "GroupId": 1
+      }
+    ]
+  },
+  {
+    "GroupName": "Job",
+    "PictureUrl": "https://res.cloudinary.com/dodijnztn/image/upload/v1659352504/HomeOrganizer/istockphoto-1356348368-170667a_ceo5ut.jpg",
+    "Users": [
+      {
+        "Name": "bob",
+        "UserId": "e3b1803b-c3c9-4e88-9f57-6b3bf5c96a18",
+        "Role": 2,
+        "MainPageChoise": 0
+      },
+      {
+        "Name": "admin",
+        "UserId": "9f92f390-bd55-460d-bc3d-4128c463065e",
+        "Role": 0,
+        "MainPageChoise": 1
+      },
+      {
+        "Name": "moderator",
+        "UserId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "Role": 1,
+        "MainPageChoise": 0
+      }
+    ],
+    "Payloads": [
+      {
+        "Id": 2,
+        "Name": "Home",
+        "GroupId": 2,
+        "Tasks": [
+          {
+            "Title": "Milk",
+            "Description": "Buy Milk",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 2,
+            "GroupId": 2
+          },
+          {
+            "Title": "Bread",
+            "Description": "Buy Bread",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 2,
+            "GroupId": 2
+          },
+          {
+            "Title": "Butter",
+            "Description": "Buy Butter",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 2,
+            "GroupId": 2
+          },
+          {
+            "Title": "Potatos",
+            "Description": "Buy Potatos",
+            "Type": 1,
+            "Complete": false,
+            "PayloadId": 2,
+            "GroupId": 2
+          }
+        ]
+      }
+    ],
+    "Ad": [
+      {
+        "AuthorName": "admin",
+        "AuthorId": "9f92f390-bd55-460d-bc3d-4128c463065e",
+        "TextBody": "First text, Third text",
+        "IsVoting": true,
+        "Voting": {
+          "Variants": [
+            {
+              "TextBody": "Variant_1",
+              "VotingId": 2
+            },
+            {
+              "TextBody": "Variant_2",
+              "VotingId": 2
+            },
+            {
+              "TextBody": "Variant_3",
+              "VotingId": 2
+            }
+          ],
+          "Id": 2,
+          "AdId": 4,
+          "IsSecret": false
+        },
+        "Acquainted": [],
+        "GroupId": 2
+      },
+      {
+        "AuthorName": "moderator",
+        "AuthorId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "TextBody": "Second text, Second text, Second text, Second text, Second text, Second text, Second text, Second text",
+        "IsVoting": false,
+        "Voting": null,
+        "Acquainted": [],
+        "GroupId": 2
+      },
+      {
+        "AuthorName": "moderator",
+        "AuthorId": "7c2e0af3-d178-4ed2-a634-de98abce7313",
+        "TextBody": "Third text, Third text, Third text, Third text, Third text, Third text, Third text, Third text, Third text",
+        "IsVoting": false,
+        "Voting": null,
+        "Acquainted": [],
+        "GroupId": 2
+      }
+    ]
+  }
+]
